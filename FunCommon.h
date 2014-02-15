@@ -9,6 +9,7 @@ extern char cHostName[100];
 extern char cDefaultPage[50];
 extern volatile bool bServerListenStatus;
 
+//lixiwen hahaha
 
 extern CFile* OpenFile(const char *pFileName);
 extern void ReadFile(const char *pFileName,char* pFileContext);
