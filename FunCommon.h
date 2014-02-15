@@ -11,6 +11,9 @@ extern volatile bool bServerListenStatus;
 
 //lixiwen hahaha
 
+//github test
+extern char TestGitHub;
+
 extern CFile* OpenFile(const char *pFileName);
 extern void ReadFile(const char *pFileName,char* pFileContext);
 extern void ReadConfigProperty(const char *pCPropertyName,char* pConfigPropertyValue);
