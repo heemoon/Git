@@ -19,3 +19,5 @@ extern UINT HttpCommunicate(LPVOID pParam);
 
 
 //lixiwen
+
+// add test github
